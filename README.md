@@ -6,7 +6,5 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: eu gosto de jogar bola, andar de skate e sair com os amigos e sou inteligente só não esforçadokkkk
 - 🇧🇷 CEP: Brasil, Paraná
-- 🐱🐈 Animal Favorito: GATO🐱🐈🐈‍⬛<!---
-GustavinLSP/GustavinLSP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🐱🐈 Animal Favorito: GATO🐱🐈🐈‍⬛
+
